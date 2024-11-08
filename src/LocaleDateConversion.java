@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 
-public class Locale{
+public class LocaleDateConversion{
 
     public static void main(String[] args) {
         // TODO: Define the US, French, and Japanese locales using the appropriate Locale constants or constructor
